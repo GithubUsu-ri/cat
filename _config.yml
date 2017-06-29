@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+# Site Settings
+
+paginate:            5
+disqus:              #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
