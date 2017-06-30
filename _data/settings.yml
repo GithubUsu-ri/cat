@@ -1,19 +1,19 @@
-title:  Lagrange
-tagline:  a minimalist Jekyll theme
+title:  Catalunya
+tagline:  Coses
 author:
-  name: "Paul Le"
-  twitter:  paululele
+  name: ""
+  twitter:  
 
 menu:
 - {name: 'About', url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
+#- {name: 'Writing', url: 'writing.html'}
+#- {name: 'Contact', url: 'contact.html'}
 
 social:
-- {icon: 'github', link: 'https://www.github.com/lenpaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+#- {icon: 'github', link: ''}
+#- {icon: 'twitter', link: ''}
+#- {icon: 'instagram', link: ''}
+#- {icon: 'linkedin', link: ''}
+#- {icon: 'envelope', link: 'mailto:'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

@@ -8,3 +8,9 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 gems:                [jekyll-paginate]
+
+# Tret del tio de youtube que ho fa sense template
+exclude: ['README.md']
+baseurl: /cat
+
+
