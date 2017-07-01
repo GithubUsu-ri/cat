@@ -12,7 +12,7 @@ image:
   
 ---
 
-Fuente: http://www.publico.es/politica/fernandez-diaz-conspiro-jefe-oficina.html
+Fuente: [Publico.es](http://www.publico.es/politica/fernandez-diaz-conspiro-jefe-oficina.html).
 
 "No podemos olvidar que estamos hablando del hermano de Junqueras".<br><br>​Así insistía <b>Jorge Fernández Díaz, como ministro del Interior en 2014</b>, en que se debía encontrar algún dato comprometedor en las <b>adjudicaciones del Ejecutivo tripartito catalán a CESPA (del Grupo Ferrovial), donde trabaja Roger Junqueras, hermano del líder de Esquerra Republicana de Catalunya (ERC)</b>.<br><br>Faltaba muy poco para la celebración de la consulta soberanista del 9-N –prohibida por el Tribunal Constitucional– y el ministro conspiraba con el<b> jefe de la Oficina Antifrau de Catalunya,&nbsp;Daniel de Alfonso Laso</b>, para obtener cualesquiera datos con los que fabricar escándalos contra los dirigentes de ERC y Convergència (CDC) que no sólo desacreditaran a esos partidos sino que incluso pudieran emplearse como indicios para acusarlos de prevaricación.<br><br>Tal como se puede escuchar en <b>la grabación de la conversación a la que ha tenido acceso <i>Público</i></b>, De Alfonso le acababa de explicar:<br>​
                         
