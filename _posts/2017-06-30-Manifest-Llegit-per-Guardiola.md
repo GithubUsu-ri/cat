@@ -22,7 +22,9 @@ i AMI, de representants del tota mena d'àmbits i de milers de persones
 congregades davant les columnes de Puig i Cadafalch. Guardiola ha llegit 
 el manifest en català, castellà i anglès.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Te7ChVOPwxQ" frameborder="0" allowfullscreen></iframe>
+<div class="videoWrapper">
+<iframe src="https://www.youtube.com/embed/Te7ChVOPwxQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Aquí el pots llegir integrament:
 
