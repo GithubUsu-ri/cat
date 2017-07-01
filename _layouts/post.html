@@ -10,6 +10,11 @@ layout: default
   <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}">
 {% endif %}
 
+{% if page.image.credit %}
+  <div class="peu_foto">{{ page.image.credit }}</div>
+{% endif %}
+
+
 {{ content }}
 
 <span class="post-date">

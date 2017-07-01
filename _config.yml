@@ -7,7 +7,7 @@ disqus:              #"your-disqus"
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-gems:                [jekyll-paginate]
+plugins:                [jekyll-paginate]
 
 # Tret del tio de youtube que ho fa sense template
 exclude: ['README.md']

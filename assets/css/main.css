@@ -1,3 +1,6 @@
+/*
+	Afegit per mi
+*/
 
 .videoWrapper {
 	position: relative;
@@ -14,6 +17,11 @@
 	height: 100%;
 }
 
+.peu_foto {
+	font-family: "PT Serif", Georgia, "Times New Roman", serif;
+	font-size: 14px;
+	color: #000000;		
+}
 /*
   Base
 */
