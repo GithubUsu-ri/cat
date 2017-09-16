@@ -11,8 +11,10 @@ image:
   creditlink: ""
 ---
 
-### Barcelona. Sunday, June 11th 2017
+### Barcelona. Saturday, September 16th 2017
+	
+Source: [Nacio Digital](http://www.naciodigital.cat/noticia/137788/aixi/seran/paperetes/referendum/1-o)
 
-Source: [The New York Times](http://www.naciodigital.cat/noticia/137788/aixi/seran/paperetes/referendum/1-o)
+Translation:
 
-
+Do you want Catalonia to be an independent state in the form of a Republic?
