@@ -18,3 +18,5 @@ Source: [Nacio Digital](http://www.naciodigital.cat/noticia/137788/aixi/seran/pa
 Translation:
 
 Do you want Catalonia to be an independent state in the form of a Republic?
+
+[Butlleta en format PDF](/assets/img/butlleta_del_dog.pdf)
