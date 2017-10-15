@@ -23,13 +23,6 @@ src="//www.dailymotion.com/embed/video/x64otov"
 allowfullscreen></iframe>
 </div>
 
-<br>
-
-<div class="videoWrapper">
-<iframe frameborder="0" width="480" height="270"
-src="//www.dailymotion.com/embed/video/x64otow"
-allowfullscreen></iframe>
-</div>
 
 <br>
 
