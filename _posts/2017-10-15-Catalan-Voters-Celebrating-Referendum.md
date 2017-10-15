@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Catalan Voters Celebrating that Referendum Took Place"
+title: "Catalan Voters Celebrating that Referendum Took Place (Video)"
 author: ""
 categories: noticia
 tags: [noticia,catalunya,catalonia,independence]
