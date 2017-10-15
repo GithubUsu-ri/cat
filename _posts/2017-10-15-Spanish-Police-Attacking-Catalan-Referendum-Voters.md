@@ -15,11 +15,46 @@ These videos were recoreded during the Catalan Independence Referendum which
 took place on October 1st 2017.
 Spanish Police attacked Catalan voters. More than 700 voters were injured.
 
-{% video /assets/videos/001_spanish_police_attacks.mp4 720 480 %}
-{% video /assets/videos/002_spanish_police_outnumbered.mp4 720 480 %}
-{% video /assets/videos/003_spanish_police_atacking_voters.mp4 720 480 %}
-{% video /assets/videos/004_spanish_police_outnumbered.mp4 720 480 %}
-{% video /assets/videos/005_spanish_police_atacking_voters.mp4 720 480 %}
+
+
+<div class="videoWrapper">
+<iframe frameborder="0" width="480" height="270"
+src="//www.dailymotion.com/embed/video/x64otov"
+allowfullscreen></iframe>
+</div>
+
+<br>
+
+<div class="videoWrapper">
+<iframe frameborder="0" width="480" height="270"
+src="//www.dailymotion.com/embed/video/x64otow"
+allowfullscreen></iframe>
+</div>
+
+<br>
+
+<div class="videoWrapper">
+<iframe frameborder="0" width="480" height="270"
+src="//www.dailymotion.com/embed/video/x64otox"
+allowfullscreen></iframe>
+</div>
+
+<br>
+
+<div class="videoWrapper">
+<iframe frameborder="0" width="480" height="270"
+src="//www.dailymotion.com/embed/video/x64otoy"
+allowfullscreen></iframe>
+</div>
+
+<br>
+
+<div class="videoWrapper">
+<iframe frameborder="0" width="480" height="270"
+src="//www.dailymotion.com/embed/video/x64otoz"
+allowfullscreen></iframe>
+</div>
+
 
 
 

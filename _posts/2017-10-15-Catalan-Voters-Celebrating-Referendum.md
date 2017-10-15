@@ -14,7 +14,12 @@ image:
 This video was recorded during the Catalan Independence Referendum which
 took place on October 1st 2017.
 
-{% video /assets/videos/006_catalan_voters_celebrating_that_referendum_took_place.mp4 720 480 %}
+
+<div class="videoWrapper">
+<iframe frameborder="0" width="480" height="270"
+src="//www.dailymotion.com/embed/video/x64otp0"
+allowfullscreen></iframe>
+</div>
 
 
 
