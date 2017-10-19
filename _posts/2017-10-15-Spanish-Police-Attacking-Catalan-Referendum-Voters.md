@@ -16,6 +16,7 @@ took place on October 1st 2017.
 Spanish Police attacked Catalan voters. More than 700 voters were injured.
 
 
+<a href="http://www.dailymotion.com/video/x64ucp6" target="_blank">Click here to open video in new tab if video does not automatically load.</a>
 
 <div class="videoWrapper">
 <iframe frameborder="0" width="480" height="270"
@@ -24,6 +25,19 @@ allowfullscreen></iframe>
 </div>
 
 <br>
+
+
+<a href="http://www.dailymotion.com/video/x64udrp" target="_blank">Click here to open video in new tab if video does not automatically load.</a>
+
+<div class="videoWrapper">
+<iframe frameborder="0" width="480" height="270"
+src="//www.dailymotion.com/embed/video/x64udrp"
+allowfullscreen></iframe>
+</div>
+
+<br>
+
+<a href="http://www.dailymotion.com/video/x64otov" target="_blank">Click here to open video in new tab if video does not automatically load.</a>
 
 <div class="videoWrapper">
 <iframe frameborder="0" width="480" height="270"
@@ -34,6 +48,8 @@ allowfullscreen></iframe>
 
 <br>
 
+<a href="http://www.dailymotion.com/video/x64otox" target="_blank">Click here to open video in new tab if video does not automatically load.</a>
+
 <div class="videoWrapper">
 <iframe frameborder="0" width="480" height="270"
 src="//www.dailymotion.com/embed/video/x64otox"
@@ -41,6 +57,8 @@ allowfullscreen></iframe>
 </div>
 
 <br>
+
+<a href="http://www.dailymotion.com/video/x64otoy" target="_blank">Click here to open video in new tab if video does not automatically load.</a>
 
 <div class="videoWrapper">
 <iframe frameborder="0" width="480" height="270"
@@ -50,6 +68,8 @@ allowfullscreen></iframe>
 
 <br>
 
+<a href="http://www.dailymotion.com/video/x64otoz" target="_blank">Click here to open video in new tab if video does not automatically load.</a>
+
 <div class="videoWrapper">
 <iframe frameborder="0" width="480" height="270"
 src="//www.dailymotion.com/embed/video/x64otoz"
@@ -57,6 +77,8 @@ allowfullscreen></iframe>
 </div>
 
 <br>
+
+<a href="http://www.dailymotion.com/video/x64tvr6" target="_blank">Click here to open video in new tab if video does not automatically load.</a>
 
 <div class="videoWrapper">
 <iframe frameborder="0" width="480" height="270"
@@ -66,6 +88,8 @@ allowfullscreen></iframe>
 
 <br>
 
+<a href="http://www.dailymotion.com/video/x64tvr5" target="_blank">Click here to open video in new tab if video does not automatically load.</a>
+
 <div class="videoWrapper">
 <iframe frameborder="0" width="480" height="270"
 src="//www.dailymotion.com/embed/video/x64tvr5"
@@ -73,6 +97,8 @@ allowfullscreen></iframe>
 </div>
 
 <br>
+
+<a href="http://www.dailymotion.com/video/x64tvr4" target="_blank">Click here to open video in new tab if video does not automatically load.</a>
 
 <div class="videoWrapper">
 <iframe frameborder="0" width="480" height="270"
@@ -82,6 +108,8 @@ allowfullscreen></iframe>
 
 <br>
 
+<a href="http://www.dailymotion.com/video/x64tvr3" target="_blank">Click here to open video in new tab if video does not automatically load.</a>
+
 <div class="videoWrapper">
 <iframe frameborder="0" width="480" height="270"
 src="//www.dailymotion.com/embed/video/x64tvr3"
@@ -89,6 +117,8 @@ allowfullscreen></iframe>
 </div>
 
 <br>
+
+<a href="http://www.dailymotion.com/video/x64tvr1" target="_blank">Click here to open video in new tab if video does not automatically load.</a>
 
 <div class="videoWrapper">
 <iframe frameborder="0" width="480" height="270"
